@@ -1,5 +1,0 @@
-/* Use background-image to add an image as the background */
-body{
-    background-image: url("background.jpg.png");
-    background-size: 100%;
-}
